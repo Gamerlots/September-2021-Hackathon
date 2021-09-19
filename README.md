@@ -1,4 +1,4 @@
-# October-2021-Hackathon
+# September 2021 Hackathon
 
 ## Coding Challenge
 
